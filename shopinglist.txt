@@ -6,3 +6,4 @@ plantain
 pepper
 maggi
 wine
+take away bowls
